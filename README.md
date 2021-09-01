@@ -7,3 +7,6 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 2. npm i @ckeditor/ckeditor5-build-classic
 3. import in app.module.ts
 4. import and use ckeditor in app.component.ts
+
+
+# Select branch ck-editor-integration for code
