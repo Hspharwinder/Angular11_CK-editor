@@ -2,6 +2,7 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.1.4.
 
+# Step integartion
 1. npm i @ckeditor/ckeditor5-angular
 2. npm i @ckeditor/ckeditor5-build-classic
 3. import in app.module.ts
